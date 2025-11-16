@@ -169,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am currently a Postdoctoral Researcher at the National Association of Insurance Commissioners (NAIC) in the Center for Insurance Policy and Research. I recently graduated with a Ph.D. in Economics from Northwestern University. My research fields are Industrial Organization, Health Economics and Insurance Economics. Most countries are facing significant challenges with the provision and financing of long-term care. Accordingly, I am especially interested in studying long-term care and insurance markets to better understand these challenges and potential policy solutions.  
