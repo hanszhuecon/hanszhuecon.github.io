@@ -27,8 +27,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: National Association of Insurance Commissioners
-  - Center for Insurance Policy and Research
+  - name: National Association of Insurance Commissioners, Center for Insurance Policy and Research
     url: https://content.naic.org/research
 
 # Social network links
