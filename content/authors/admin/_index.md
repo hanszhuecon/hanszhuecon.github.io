@@ -48,14 +48,13 @@ organizations:
 #    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Industrial Organization
+  - Health Economics (Long-term care focus)
+  - Insurance Economics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D. in Economics, 2025
+    institution: Northwestern University
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
