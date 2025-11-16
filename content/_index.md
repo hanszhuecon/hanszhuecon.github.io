@@ -30,20 +30,22 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
     
-  - block: prose           # ← change type
+ # ---------- WORKING PAPERS ----------
+  - block: markdown
     id: working-papers
     content:
       title: "Working Papers"
-      text: |              # ← key MUST be `text:` for prose
+      text: |
         * **Financial-Regulation Pass-through in the U.S. Life-Insurance Industry**  
-          with Paul Kim — *latest draft: Oct 2025*  
+          with Paul Kim — *latest draft: October 2025*  
           [PDF](/files/zhu_kim_rbc_pass_through.pdf)
 
-        * **Health & Well-being Impacts of Self-Directed Care Programs**  
-          with Eilidh Geddes & Alison Morantz — *work in progress*  
+        * **Health & Well-being Impacts of Self-Directed Care Programs in the U.S.**  
+          with Eilidh Geddes and Alison Morantz — *work in progress*  
           [Abstract](/files/sdc_abstract.pdf)
 
-  - block: prose
+  # ---------- WORKS IN PROGRESS ----------
+  - block: markdown
     id: works-in-progress
     content:
       title: "Works in Progress"
