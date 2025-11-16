@@ -40,7 +40,7 @@ sections:
 
         * **Health & Well-being Impacts of Self-Directed Care Programs in the U.S.**  
           with Eilidh Geddes & Alison Morantz — *work in progress*  
-          [Abstract](/files/sdc_abstract.pdf)  - block: collection
+          [Abstract](/files/sdc_abstract.pdf) 
   - block: markdown
     id: works-in-progress
     content:
