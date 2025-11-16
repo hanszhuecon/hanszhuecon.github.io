@@ -29,27 +29,29 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown                      # free-form Markdown section
+    
+  - block: prose           # ← change type
     id: working-papers
     content:
       title: "Working Papers"
-      markdown: |
+      text: |              # ← key MUST be `text:` for prose
         * **Financial-Regulation Pass-through in the U.S. Life-Insurance Industry**  
-          with Paul Kim — *latest draft Oct 2025*  
+          with Paul Kim — *latest draft: Oct 2025*  
           [PDF](/files/zhu_kim_rbc_pass_through.pdf)
 
-        * **Health & Well-being Impacts of Self-Directed Care Programs in the U.S.**  
+        * **Health & Well-being Impacts of Self-Directed Care Programs**  
           with Eilidh Geddes & Alison Morantz — *work in progress*  
-          [Abstract](/files/sdc_abstract.pdf) 
-  - block: markdown
+          [Abstract](/files/sdc_abstract.pdf)
+
+  - block: prose
     id: works-in-progress
     content:
       title: "Works in Progress"
-      markdown: |
+      text: |
         * **Structural Demand–Supply Model of Nursing-Home Markets**  
           Job-market paper — replication code coming soon
 
-        * **Private-Credit & RBC Factors in U.S. Life Insurers**  
+        * **Private-Credit & RBC Charges in U.S. Life Insurers**  
           Data construction phase
     
 ---
