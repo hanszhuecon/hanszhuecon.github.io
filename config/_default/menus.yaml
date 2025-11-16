@@ -10,7 +10,5 @@ main:
   - name: Works in Progress
     url: /#wip
     weight: 12
-  - name: Contact
-    url: /#contact
-    weight: 13
+
 
