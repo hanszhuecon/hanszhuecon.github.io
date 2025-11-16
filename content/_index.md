@@ -51,16 +51,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: contact
-    content:
-      title: Contact
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
     
 ---
