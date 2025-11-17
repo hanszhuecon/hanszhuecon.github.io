@@ -1,4 +1,0 @@
-/* Hide the 'Professional Summary' heading in the top bio block */
-main section:first-of-type h2:first-of-type {
-  display: none;
-}
