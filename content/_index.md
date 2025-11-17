@@ -6,9 +6,9 @@ type: landing
 
 design:
   # Default section spacing
-   spacing:
+  spacing:
     # top, right, bottom, left
-     padding: ['0px', '0', '0px', '0']
+    padding: ['0px', '0', '0px', '0']
 
 sections:
   - block: resume-biography-3
@@ -31,9 +31,9 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-       spacing:
+      spacing:
         # top, right, bottom, left
-         padding: ['0px', '0', '0px', '0']
+        padding: ['0px', '0', '0px', '0']
 
   # ---------- WORKING PAPERS ----------
   - block: markdown
@@ -65,5 +65,4 @@ sections:
           with [Paul Kim](https://sites.google.com/view/paul-hs-kim/home)
 
           _Abstract:_ Life- and long-term-care (LTC) insurers back their long-duration liabilities with sizable bond portfolios. Accordingly, solvency regulation effectively restricts the riskiness and expected returns of an insurer's investment portfolio. However, since expected returns govern the profitability of offering insurance, solvency regulation also affects premium pricing. In this paper, we study the pass-through to consumers of a change in solvency regulation in the US life insurance industry. The National Association of Insurance Commissioners (NAIC) increased risk charges for NAIC 2 (BBB) long-term bonds in 2022. This effectively increased the capital requirements for holding these bonds, reducing their expected returns. We construct a shift-share instrument using the increase in risk charges for NAIC 2 bonds, with exposure to the shock being captured by exposure to NAIC 2 bonds and how binding their financial constraints are. The instrument will be used to estimate the pass-through from reducing acquisitions of NAIC 2 bonds to higher insurance premia.
-    
 ---
