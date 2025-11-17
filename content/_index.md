@@ -33,7 +33,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
       spacing:
         # top, right, bottom, left
-        padding: ['40px', '0', '24px', '0']
+        padding: ['20px', '0', '12px', '0']
 
   # ---------- WORKING PAPERS ----------
   - block: markdown
