@@ -6,12 +6,12 @@ type: landing
 
 design:
   # Default section spacing
-  # spacing:
+   spacing:
     # top, right, bottom, left
-    # padding: ['0px', '0', '0px', '0']
+     padding: ['0px', '0', '0px', '0']
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -31,9 +31,9 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-      # spacing:
+       spacing:
         # top, right, bottom, left
-        # padding: ['0px', '0', '0px', '0']
+         padding: ['0px', '0', '0px', '0']
 
   # ---------- WORKING PAPERS ----------
   - block: markdown
