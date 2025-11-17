@@ -8,10 +8,10 @@ design:
   # Default section spacing
   spacing:
     # top, right, bottom, left
-    padding: ['0px', '0', '0px', '0']
+    # padding: ['0px', '0', '0px', '0']
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -33,7 +33,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
       spacing:
         # top, right, bottom, left
-        padding: ['0px', '0', '0px', '0']
+        # padding: ['0px', '0', '0px', '0']
 
   # ---------- WORKING PAPERS ----------
   - block: markdown
