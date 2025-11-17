@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing:
+  # spacing:
     # top, right, bottom, left
     # padding: ['0px', '0', '0px', '0']
 
@@ -31,7 +31,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-      spacing:
+      # spacing:
         # top, right, bottom, left
         # padding: ['0px', '0', '0px', '0']
 
