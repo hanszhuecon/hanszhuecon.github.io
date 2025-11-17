@@ -47,21 +47,21 @@ organizations:
 #  - icon: academicons/orcid
 #    url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Industrial Organization
-  - Health Economics (Long-term care focus)
-  - Insurance Economics
+# interests:
+#  - Industrial Organization
+#  - Health Economics (Long-term care focus)
+#  - Insurance Economics
 
-education:
-  - area: Ph.D. in Economics, 2025
-    institution: Northwestern University
-    icon: ""
-    date_start: 
-    date_end: 
-    summary: 
-    button:
-      text: 
-      url: 
+# education:
+#  - area: Ph.D. in Economics, 2025
+#    institution: Northwestern University
+#    icon: ""
+#    date_start: 
+#    date_end: 
+#    summary: 
+#    button:
+#      text: 
+#      url: 
 
 work:
   - position: Senior AI Research Scientist
