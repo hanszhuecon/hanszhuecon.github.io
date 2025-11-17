@@ -8,7 +8,7 @@ design:
   # Default section spacing
   spacing:
     # top, right, bottom, left
-    padding: ['10px', '0', '0px', '0']
+    padding: ['0px', '0', '0px', '0']
 
 sections:
   - block: resume-biography-3
@@ -33,7 +33,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
       spacing:
         # top, right, bottom, left
-        padding: ['10px', '0', '0px', '0']
+        padding: ['0px', '0', '0px', '0']
 
   # ---------- WORKING PAPERS ----------
   - block: markdown
