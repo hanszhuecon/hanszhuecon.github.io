@@ -11,7 +11,7 @@ design:
     padding: ['0px', '0', '0px', '0']
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
