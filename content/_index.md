@@ -44,7 +44,7 @@ sections:
 
         * **Could it be Better to Refund than Recommend? The Role of Ex-post Match Values in Digital Entertainment Markets**
 
-          _Abstract:_ [Write abstract here.]
+          _Abstract:_ Digital entertainment markets are characterised by many niches and the 'long tail' of consumption. I argue that the size of these tails may be dramatically underestimated if ex-post match values - match values realised only after consumption - are not taken into account. I collect a novel individual-level dataset on the Steam platform and interpret playtime data as directly informative about ex-post match values. The playtime data reveal patterns of consumption starkly different to those inferred from purchases. I then examine the policy relevance of ex-post match values, by studying a unique series of policy changes on the Steam platform. The introduction of personalised stores followed by the introduction of refunds. Personalised stores should improve consumer matches on average, but are unable to recommend on the basis of realised ex-post match values. Refunds allow consumers to realise ex-post match values before committing to the purchase. I find that sales increase following the introduction of refunds by around 5 times the increase following the introduction of personalised stores. In addition, the sales patterns following the introduction of refunds are dramatically different compared to those with the introduction of personalised stores. These results suggest that the effects of personalised stores alone are limited. Whether personalised stores matter or are complementary to refunds will be investigated using a structural model which I describe.
 
   # ---------- WORKS IN PROGRESS ----------
   - block: markdown
