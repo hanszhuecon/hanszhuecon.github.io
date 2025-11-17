@@ -8,7 +8,7 @@ design:
   # Default section spacing
   spacing:
     # top, right, bottom, left
-    padding: ['32px', '0', '32px', '0']
+    padding: ['20px', '0', '12px', '0']
 
 sections:
   - block: resume-biography-3
