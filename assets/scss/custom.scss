@@ -1,16 +1,3 @@
-/* Pull the content closer to the navbar */
-main {
-  padding-top: 1.5rem !important;   // try 0.5–2rem to taste
-}
-
-/* Reduce vertical space above the first section */
-main section:first-of-type {
-  margin-top: 0 !important;
-  padding-top: 0.5rem !important;
-}
-
-/* Tighten headings (e.g. “Working Papers”, “Works in Progress”) */
-h2 {
-  margin-top: 0.75rem !important;
-  margin-bottom: 0.5rem !important;
+body {
+  border: 5px solid red !important;
 }
