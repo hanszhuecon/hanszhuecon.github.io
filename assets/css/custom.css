@@ -1,0 +1,5 @@
+/* Target the hero/summary block heading specifically */
+.blox--resume-biography-3 h1 {
+  font-size: 2rem !important;
+  line-height: 1.2;
+}
