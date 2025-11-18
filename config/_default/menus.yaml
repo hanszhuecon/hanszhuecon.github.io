@@ -8,7 +8,7 @@ main:
     url: /#working-papers
     weight: 11
   - name: Works in Progress
-    url: /#wip
+    url: /#works-in-progress
     weight: 12
 
 
