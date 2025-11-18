@@ -15,14 +15,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: |
-        <style>
-        /* Shrink the big name heading in the bio block */
-        .blox--resume-biography-3 h1 {
-          font-size: 2rem !important;
-          line-height: 1.2;
-        }
-        </style>
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
