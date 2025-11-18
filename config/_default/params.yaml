@@ -14,8 +14,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: 'National Association of Insurance Commissioners, Center for Insurance Policy and Research'
+    description: 'Hans Zhu – Postdoctoral Researcher at NAIC - CIPR. Empirical IO, health and insurance economics. PhD in Economics, Northwestern University.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
