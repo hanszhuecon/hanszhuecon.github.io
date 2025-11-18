@@ -1,5 +1,16 @@
-/* Target the hero/summary block heading specifically */
-.blox--resume-biography-3 h1 {
-  font-size: 2rem !important;
-  line-height: 1.2;
+/* 1. Big obvious test: add a red outline to the whole page */
+body {
+  outline: 4px solid red;
+}
+
+/* 2. Make all H1 headings smaller (your name is an H1) */
+h1 {
+  font-size: 2.1rem !important;
+}
+
+/* Slightly larger on wider screens, but still much smaller than default */
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2.6rem !important;
+  }
 }
