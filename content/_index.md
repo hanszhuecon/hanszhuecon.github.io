@@ -128,6 +128,13 @@ sections:
           </p>
         </article>
 
+        <article class="paper-entry">
+          <h4 class="paper-title">Regulated Pricing Across Health Systems</h4>
+          <p class="paper-coauthors">
+            with <a href="https://www.yutingzhang.com/">Yuting Zhang</a>
+          </p>
+        </article>
+
         </div>
     design:
       css_class: econ-research
