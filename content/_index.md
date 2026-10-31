@@ -25,10 +25,7 @@ sections:
         </p>
         <div class="econ-profile-bio">
         <p>
-        I am a Postdoctoral Researcher at the National Association
-        of Insurance Commissioners in the Center for Insurance Policy
-        and Research. In October, I will commence as a Research Fellow at the Melbourne Institute of Applied Economic and Social Research.
-        I graduated in 2025 with a Ph.D. in Economics
+        I am a Research Fellow at the Melbourne Institute of Applied Economic and Social Research. Before that, I was a Postdoctoral Researcher at the National Association of Insurance Commissioners (Center for Insurance Policy and Research). I graduated in 2025 with a Ph.D. in Economics
         from Northwestern University. My research fields are Industrial
         Organization, Health Economics and Insurance Economics. Most
         countries are facing significant challenges with the provision
