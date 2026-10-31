@@ -61,6 +61,25 @@ sections:
         <h3 class="research-subheading">Working Papers</h3>
 
         <article class="paper-entry">
+          <h4 class="paper-title">Limiting For-profit Provision in Nursing Home Markets</h4>
+          <p class="paper-coauthors">with <a href="https://hyeinhcho.github.io/">Hyein Cho</a></p>
+          <p><em>Submitted</em></p>
+          <p class="paper-status">Latest draft: October 2026</p>
+
+          <div class="paper-actions">
+            <a class="paper-button" href="/uploads/nursinghomes_draft.pdf">Paper</a>
+            <details class="paper-details">
+              <summary>Abstract</summary>
+              <div class="paper-abstract">
+                <p>We examine whether policies that ban for-profit providers and allow for subsequent takeovers by not-for-profits can be effective at addressing quality shortfalls. We consider the U.S. nursing home industry, where quality provision has been a concern for many decades. Our motivating evidence suggests that not-for-profit providers choose higher-quality inputs than their for-profit counterparts but are more prevalent in higher socioeconomic markets and serve wealthier residents.</p>
+                <p>Thus, for-profit providers play an important role in providing access. To explain these facts and explore counterfactual policies, we estimate a structural model of nursing home demand and supply that allows firms to have nonpecuniary motives and costs that differ across provider types. The structural model reveals that for-profit providers have a strong cost advantage for serving needier residents. This results in them choosing a lower-quality and lower-priced product to maximize their margins.</p>
+                <p>Not-for-profit providers choose higher quality, and therefore higher prices, not because of their nonpecuniary motive, but because they prefer to avoid directly competing with for-profit providers by serving residents with stronger preferences for quality. Therefore, banning for-profit providers while allowing for takeovers tends to reduce consumer surplus because not-for-profits that take over for-profits significantly raise prices to cover their higher costs. These results underscore the role that for-profit providers play in expanding access to nursing home care.</p>
+              </div>
+            </details>
+          </div>
+        </article>
+    
+        <article class="paper-entry">
         <h4 class="paper-title">
         Reinsuring Private Credit by Private Equity
         </h4>
@@ -115,23 +134,7 @@ sections:
         </div>
         </article>
     
-        <article class="paper-entry">
-          <h4 class="paper-title">Limiting For-profit Provision in Nursing Home Markets</h4>
-          <p class="paper-coauthors">with <a href="https://hyeinhcho.github.io/">Hyein Cho</a></p>
-          <p class="paper-status">Latest draft: May 2026</p>
 
-          <div class="paper-actions">
-            <a class="paper-button" href="/uploads/nursinghomes_draft.pdf">Paper</a>
-            <details class="paper-details">
-              <summary>Abstract</summary>
-              <div class="paper-abstract">
-                <p>We examine whether policies that ban for-profit providers and allow for subsequent takeovers by not-for-profits can be effective at addressing quality shortfalls. We consider the U.S. nursing home industry, where quality provision has been a concern for many decades. Our motivating evidence suggests that not-for-profit providers choose higher-quality inputs than their for-profit counterparts but are more prevalent in higher socioeconomic markets and serve wealthier residents.</p>
-                <p>Thus, for-profit providers play an important role in providing access. To explain these facts and explore counterfactual policies, we estimate a structural model of nursing home demand and supply that allows firms to have nonpecuniary motives and costs that differ across provider types. The structural model reveals that for-profit providers have a strong cost advantage for serving needier residents. This results in them choosing a lower-quality and lower-priced product to maximize their margins.</p>
-                <p>Not-for-profit providers choose higher quality, and therefore higher prices, not because of their nonpecuniary motive, but because they prefer to avoid directly competing with for-profit providers by serving residents with stronger preferences for quality. Therefore, banning for-profit providers while allowing for takeovers tends to reduce consumer surplus because not-for-profits that take over for-profits significantly raise prices to cover their higher costs. These results underscore the role that for-profit providers play in expanding access to nursing home care.</p>
-              </div>
-            </details>
-          </div>
-        </article>
 
         <article class="paper-entry">
           <h4 class="paper-title">Could it be Better to Refund than Recommend? The Role of Ex-post Match Values in Digital Entertainment Markets</h4>
