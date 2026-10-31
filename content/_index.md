@@ -63,7 +63,6 @@ sections:
         <article class="paper-entry">
           <h4 class="paper-title">Limiting For-profit Provision in Nursing Home Markets</h4>
           <p class="paper-coauthors">with <a href="https://hyeinhcho.github.io/">Hyein Cho</a></p>
-          <p><em>Submitted</em></p>
           <p class="paper-status">Submitted &nbsp;·&nbsp; Latest draft: October 2026</p>
 
           <div class="paper-actions">
