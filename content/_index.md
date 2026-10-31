@@ -86,48 +86,17 @@ sections:
         <a href="https://sites.google.com/view/paul-hs-kim/home">Paul Kim</a>
         </p>
 
-        <p class="paper-status">
-        <a href="mailto:hanszhu2024@u.northwestern.edu?subject=Draft%20request%3A%20Reinsuring%20Private%20Credit%20by%20Private%20Equity">
-        Email for draft
-        </a>
-        </p>
+        <p class="paper-status"> Latest draft: October 2026</p>
 
         <div class="paper-actions">
-        <details class="paper-details">
-        <summary>Abstract</summary>
+        <a class="paper-button" href="/uploads/reinsurance_privatecred_draft.pdf">Paper</a>
+            <details class="paper-details">
+              <summary>Abstract</summary>
+              <div class="paper-abstract">
+               <p>Over the last decade, U.S. life insurers have aggressively shifted reserves to offshore jurisdictions while simultaneously reallocating portfolios toward private credit. This paper finds that the two are linked through private equity-backed reinsurers domiciled in Bermuda. Insurers benefit directly or indirectly from exposure to higher-yielding private credit and a more competitive reinsurance market. Private equity firms with a large presence in Bermuda can access desired blocks of life insurer capital for their private credit investments through reinsurance arrangements. Using comprehensive regulatory filings from 2011–2024, we exploit the staggered adoption of offshore reinsurance agreements to estimate the causal impact of these arrangements on portfolio allocation. Two years following the execution of a reinsurance agreement with a private equity-backed reinsurer, insurers increase their investments in NAIC 1 long-term private credit bonds by 1.4 percentage points, or a third of the median share of investments in private credit. In addition, these reinsurance and portfolio allocation decisions coincide with changes in the annuity product market. Two years following the execution of such an agreement, insurers also increase their annual total annuity premiums (lump-sum deposits) collected by around $0.82 billion.</p>
 
-        <div class="paper-abstract">
-        <p>
-        Over the last decade, U.S. life insurers have aggressively shifted
-        reserves to offshore jurisdictions while simultaneously reallocating
-        portfolios toward private credit. This paper finds that the two are
-        linked through private equity reinsurers domiciled in Bermuda.
-        Insurers benefit directly or indirectly from exposure to higher
-        yielding private credit and the more competitive reinsurance market.
-        Private equity with a large presence in Bermuda can access desired
-        blocks of life insurer capital for their private credit investments
-        as a reinsurer.
-        </p>
-
-        <p>
-        Using comprehensive regulatory filings from 2011-2024, we exploit the
-        staggered adoption of offshore reinsurance agreements, to estimate the
-        causal impact of these arrangements on portfolio allocation. Two years
-        following the execution of such a reinsurance agreement with a
-        private-equity backed reinsurer, insurers increase their investments
-        in NAIC 1 long-term bond like private credit by 1.4 percentage points
-        or a third of the median share of investments in private credit.
-        </p>
-
-        <p>
-        In addition, these reinsurance and portfolio allocation decisions
-        coincide with changes in the annuity product market. Two years
-        following the execution of such a reinsurance agreement, insurers also
-        increase their annual total annuity premiums (lump sum deposits)
-        collected by around $0.82 billion.
-        </p>
-        </div>
-        </details>
+              </div>
+            </details>
         </div>
         </article>
     
