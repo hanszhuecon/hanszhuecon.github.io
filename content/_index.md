@@ -19,9 +19,9 @@ sections:
         </div>
         <div class="econ-profile-text">
         <h1>Hans Zhu</h1>
-        <p class="econ-profile-role">Postdoctoral Researcher</p>
+        <p class="econ-profile-role">Research Fellow</p>
         <p class="econ-profile-affiliation">
-        <a href="https://content.naic.org/research">National Association of Insurance Commissioners, Center for Insurance Policy and Research</a>
+        <a href="https://content.naic.org/research">Melbourne Institute of Applied Economic and Social Research, University of Melbourne</a>
         </p>
         <div class="econ-profile-bio">
         <p>
