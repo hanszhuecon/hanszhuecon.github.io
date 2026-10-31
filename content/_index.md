@@ -39,7 +39,7 @@ sections:
         </div>
         <p class="econ-profile-contact">
         Email:
-        <a href="mailto:hanszhu2024@u.northwestern.edu">hanszhu2024@u.northwestern.edu</a>
+        <a href="mailto:hans.zhu@unimelb.edu.au">hans.zhu@unimelb.edu.au</a>
         </p>
         <p class="econ-profile-links">
         <a class="econ-profile-cv" href="/uploads/website_cv_hz.pdf">CV</a>
