@@ -122,13 +122,10 @@ sections:
 
         <article class="paper-entry">
           <h4 class="paper-title">The Impacts of Vertical Integration of Home Health Agencies in Medicare Advantage</h4>
-
-            <p class="paper-coauthors">
-        with Anqi Chen
-        and
-        <a href="https://www.maxwell.syr.edu/directory/jun-li">Jun Li</a>
-        </p>
-
+          <p class="paper-coauthors">
+            with Anqi Chen and
+            <a href="https://www.maxwell.syr.edu/directory/jun-li">Jun Li</a>
+          </p>
         </article>
 
         </div>
