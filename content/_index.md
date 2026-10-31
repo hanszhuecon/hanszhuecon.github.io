@@ -121,17 +121,14 @@ sections:
         <h3 class="research-subheading">Work in Progress</h3>
 
         <article class="paper-entry">
-          <h4 class="paper-title">Labor Market Spillovers of Regulated Pricing in the U.S. Nursing Home Industry</h4>
+          <h4 class="paper-title">The Impacts of Vertical Integration of Home Health Agencies in Medicare Advantage</h4>
 
-          <div class="paper-actions">
-            <details class="paper-details">
-              <summary>Abstract</summary>
-              <div class="paper-abstract">
-                <p>Complaints of labor shortages are common in health and education markets where prices are often fixed or regulated. In this project, I argue that the two are linked. The ability of providers to adjust their labor inputs depends on their ability to adjust wages, which is limited when they face regulated prices. I study this idea in the U.S. nursing home industry, where a significant proportion of provider revenue comes from fixed prices.</p>
-                <p>In addition to a structural model of nursing home demand and supply, I model nurse labor supply. This will allow me to consider counterfactuals where nursing homes can freely set prices and study the resulting implications for nursing home quality and the nurse labor market.</p>
-              </div>
-            </details>
-          </div>
+            <p class="paper-coauthors">
+        with Anqi Chen
+        and
+        <a href="https://www.maxwell.syr.edu/directory/jun-li">Jun Li</a>
+        </p>
+
         </article>
 
         </div>
